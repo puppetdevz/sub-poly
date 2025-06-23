@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "sub-poly",
+	"name": "sub-poly-api",
 	"main": "src/index.js",
 	"compatibility_date": "2025-03-13",
 	"observability": {
